@@ -27,6 +27,7 @@ body {
 	margin: 0;
 	background-color: var(--VeryDarkBlueBody);
 	display: flex;
+	flex-direction: column;
 }
 
 .card {
